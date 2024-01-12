@@ -5,7 +5,7 @@ import {
     buscarHistoricoPorAno,
     calcularReajuste,
     validacaoErro
-} from "./servico/servico.js";
+} from "./servico.js";
 
 const app = express();
 
